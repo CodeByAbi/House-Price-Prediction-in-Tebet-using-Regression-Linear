@@ -24,13 +24,13 @@ Implementing various models to predict house prices based on the selected featur
    
 9. Regularization: Using regularization methods to improve model performance and prevent overfitting.
 
-**Usage**
+# **Usage**
 Data Preparation: Place your dataset in the data directory.
 Run the Analysis: Execute the Jupyter notebook or Python scripts to perform data analysis and model training.
 Prediction: Use the trained model to make predictions on new data.
 
-**Results**
+# **Results**
 The final model provides predictions of house prices in the Tebet area, offering valuable insights for real estate decision-making. Visualizations and detailed analysis results can be found in the project's notebooks and reports.
 
-**Contributing**
+# **Contributing**
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
