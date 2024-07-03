@@ -1,10 +1,11 @@
 # House Price Prediction in Tebet using Linear Regression
 This project focuses on predicting house prices in the Tebet area using linear regression. The objective is to analyze various factors influencing property values and develop a model that can accurately estimate house prices based on these factors.
 
-**Project Overview**
+# **Project Overview**
+
 The real estate market in Tebet is dynamic and influenced by multiple variables such as location, size, age of the property, and amenities. By leveraging linear regression techniques, this project aims to uncover patterns and relationships within the data, providing valuable insights for potential buyers, sellers, and real estate investors.
 
-**Key Features**
+# **Key Features**
 1. Data Collection from Kaggle
 Gathering relevant data on house prices and influencing factors from reliable sources.
 
